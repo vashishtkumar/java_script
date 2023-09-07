@@ -1,2 +1,2 @@
 # java_script
-A repo for java script tutorial
+A repo for java script 
